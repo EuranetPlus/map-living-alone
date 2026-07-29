@@ -1,13 +1,10 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel van ons wonen alleen?",
+  "subtitle": "In 2025 zal meer dan een derde van de bevolking in de Europese Unie alleen wonen. In Litouwen, Denemarken en Finland ligt dit cijfer op ongeveer één op de twee mensen, terwijl het in Slowakije minder dan één op de tien is.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
