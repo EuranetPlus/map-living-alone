@@ -1,13 +1,10 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudzi no mums dzīvo vieni?",
+  "subtitle": "Līdz 2025. gadam vairāk nekā trešdaļa Eiropas Savienības iedzīvotāju dzīvoja vieni. Lietuvā, Dānijā un Somijā šis skaitlis ir aptuveni viens no diviem cilvēkiem, savukārt Slovākijā tas ir mazāk nekā viens no desmit.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
