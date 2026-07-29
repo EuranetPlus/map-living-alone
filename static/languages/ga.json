@@ -1,13 +1,10 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad againn atá ina gcónaí inár n-aonar?",
+  "subtitle": "Faoi 2025, bhí breis is aon trian de dhaonra an Aontais Eorpaigh ina gcónaí leo féin. Sa Liotuáin, sa Danmhairg agus san Fhionlainn, seasann an figiúr ag thart ar dhuine as gach beirt, agus sa tSlóvaic tá sé níos lú ná duine as gach deichniúr.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
